@@ -7,13 +7,10 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://https://www.linkedin.com/in/darcy-turin/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/darcyturin
     - icon: envelope-at
       text: Email
       href: mailto:melser@student.ubc.ca
@@ -21,4 +18,4 @@ about:
 
 Hey there,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites. 
+What happens when I change this? Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites. 
